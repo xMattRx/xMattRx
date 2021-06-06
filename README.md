@@ -16,7 +16,8 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="8%" alt="PHP">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="8%" alt="Java">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="8%" alt="C#">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="8%" alt="C"><br>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="8%" alt="C"><br><br>
+<br>
 
 ## Stats
 
