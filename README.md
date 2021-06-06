@@ -5,7 +5,7 @@
 * I'm 22 years old;
 * I'm a graduate student of Software Engineering at PUC Minas.
 ## Find me elsewhere
-<a  href="https://www.linkedin.com/in/matthew-nascimento-5753246a/">
+<a target="_blank"  href="https://www.linkedin.com/in/matthew-nascimento-5753246a/">
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="8%" alt="Linkedin">
 </a>
 
