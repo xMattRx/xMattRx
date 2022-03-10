@@ -1,6 +1,6 @@
 
 ### Hey, I'm Matt ✌
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; width: 20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="6%" alt="HTML">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="6%" alt="CSS">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="6%" alt="Javascript"> 
