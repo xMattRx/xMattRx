@@ -3,10 +3,10 @@
 
 ### Hey, I'm Matt ✌  <br><br><br>
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px" alt="HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px" alt="CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="Javascript"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px" alt="ReactJS"><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="3%" alt="HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="3%" alt="CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="3%" alt="Javascript"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="3%" alt="ReactJS"><br><br>
 <div>
 
 ![xMattRx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=dark)
