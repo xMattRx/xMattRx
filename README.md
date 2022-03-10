@@ -1,25 +1,11 @@
 
-## Hey, I'm Matthew Nascimento ✌
+### Hey, I'm Matt ✌
 
-* My name is Matthew, but, everyone calls me Matt;
-* I'm 23 years old;
-* I'm a graduate student of Software Engineering at PUC Minas.
-## Find me elsewhere
-<a target="_blank"  href="https://www.linkedin.com/in/matthew-nascimento-5753246a/">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="8%" alt="Linkedin">
-</a>
-
-## Technologies
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="8%" alt="HTML">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="8%" alt="CSS">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="8%" alt="Javascript">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="8%" alt="PHP">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="8%" alt="Java">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="8%" alt="C#">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="8%" alt="C">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="8%" alt="ReactJS"><br><br><br><br>
-
-
-## Stats
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="6%" alt="HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="6%" alt="CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="6%" alt="Javascript"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="6%" alt="ReactJS"><br><br>
 
 ![xMattRx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=dark)
+
