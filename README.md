@@ -3,7 +3,7 @@
 
 ### Hey, I'm Matt ✌  <br>
 
-<p>My name is Matthew, but everyone calls me Matt and I'm a <strong>Front End Developer</strong>.</p><br>
+<p>My name is Matthew, but everyone calls me Matt and I'm a <strong>Front End Developer</strong>.</p><br><br>
 
 
 <div>
@@ -14,7 +14,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="5%" alt="ReactJS">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="5%" alt="NodeJS">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="5%" alt="Express"><br><br>
-</div><br>
+</div><br><br>
 
 
 
