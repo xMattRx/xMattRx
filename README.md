@@ -21,7 +21,7 @@
 <div>
 	<img height="154em" src="https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=dark"/>
 	<img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=dark"/><br><br>
-	<img src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
+	<img width="80%" src="https://thumbs.gfycat.com/HarmoniousUnknownAfghanhound-max-1mb.gif"/>
 </div><br>
 
 <a href="https://www.linkedin.com/in/matthew-nascimento-5753246a">
