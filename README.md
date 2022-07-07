@@ -3,7 +3,7 @@
 
 ### Hey, I'm Matt ✌  <br>
 
-<p>My name is Matthew, but everyone calls me Matt and I'm a Front End Developer.</p>
+<p>My name is Matthew, but everyone calls me Matt and I'm a <strong>Front End Developer</strong>.</p>
 
 
 <div>
