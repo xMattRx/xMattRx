@@ -7,26 +7,23 @@
 
 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="5%" alt="HTML">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="5%" alt="CSS">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="5%" alt="Javascript"> 
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="5%" alt="Typescript"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="5%" alt="ReactJS">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="5%" alt="NodeJS">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="5%" alt="Express"><br><br>
-</div><br><br>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
+</div>
 
 <div>
 	<img height="154em" src="https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=dark"/>
-	<img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=dark"/><br><br>
+	<img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=dark"/><br>
 </div><br>
 
 <a href="https://www.linkedin.com/in/matthew-nascimento-5753246a">
-<img 
-data-canonical-src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3" 
-src="https://camo.githubusercontent.com/5ad7c827775e06f7567148b4328e2b901fbe853cbd0fb5c5e6aefee92276b847/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303036314333266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f736f706869616770"/>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </a>
 </div>
+
+
 
