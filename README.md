@@ -1,4 +1,4 @@
-I'm Matthew, a Brazilian software engineer specializing in web applications with over 3 years of industry experience. My expertise lies in developing dynamic and responsive user interfaces using React, Next.js, and React Native, complemented by a solid foundation in TypeScript and modern front-end technologies. I have successfully contributed to a variety of projects, focusing on delivering high-quality, maintainable code while enhancing user experience through innovative design and functionality.
+I'm Matthew, a Brazilian software engineer specializing in web applications with over 4 years of industry experience. My expertise lies in developing dynamic and responsive user interfaces using React, Next.js, and React Native, complemented by a solid foundation in TypeScript and modern front-end technologies. I have successfully contributed to a variety of projects, focusing on delivering high-quality, maintainable code while enhancing user experience through innovative design and functionality.
 
 - 💼 Software Engineer at <a href="https://ciandt.com/br/pt-br/home">CI&T</a>
 - 🎓 Software Engineering graduate
