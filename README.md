@@ -51,9 +51,3 @@ I'm passionate about solving real-world problems through design and code, consta
 </div>
 
 ---
-
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xMattRx.xMattRx&left_color=gray&right_color=blue" alt="visitor badge"/>
-</p>
