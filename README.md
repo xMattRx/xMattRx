@@ -65,10 +65,7 @@ Git, Vite, ESLint, Prettier, Figma
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=tokyonight&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=tokyonight" height="160" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xMattRx&show_icons=true&theme=tokyonight&hide_title=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMattRx&layout=compact&theme=tokyonight" height="160" /> </div>
 
 ---
 
