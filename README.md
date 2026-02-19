@@ -1,32 +1,65 @@
 # Matthew Nascimento
 
-**Frontend Software Engineer** | React, Next.js, Node.js, React Native, TypeScript  
-📍 Brazil | 🎓 B.Sc. in Software Engineering  
-💼 Software Engineer @ [Cartão Elo]([https://ciandt.com/br/pt-br/home](https://www.elo.com.br/))
+**Software Engineer** | Scalable Web Platforms | Full-Stack (Next.js & Node.js)  
+📍 Brazil  
+🎓 B.Sc. in Software Engineering  
+💼 Software Engineer @ Cartão Elo  
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm Matthew, a Brazilian software engineer with 4+ years of experience building modern, scalable, and high-performance web and mobile applications.
+I’m a Software Engineer with 4+ years of experience building scalable digital platforms and high-performance web applications.
 
-My main focus is crafting **intuitive user interfaces** and writing **clean, maintainable code** using technologies like **React**, **Next.js**, **React Native**, and **TypeScript**.
+At **Cartão Elo**, I contribute to the evolution of a large-scale institutional platform, designing and implementing features across the full stack — from modern front-end architectures using **Next.js and TypeScript** to backend services in **Node.js**, integrating internal and external APIs.
 
-I'm passionate about solving real-world problems through design and code, constantly looking for better ways to enhance UX while keeping performance and maintainability top of mind.
+My work focuses on engineering quality, scalability, and long-term maintainability rather than just feature delivery.
+
+### What I Work On
+
+- Designing scalable web architectures
+- Building and maintaining backend services (Node.js)
+- API integrations and cross-service communication
+- CMS schema modeling and dynamic content workflows (Strapi)
+- Performance optimization (Core Web Vitals, SEO, image optimization)
+- Reusable component architecture
+- Testing strategy and code reliability
+
+I’m driven by solving real engineering problems and building systems that are reliable, maintainable, and performant.
+
+---
+
+## 🧠 Core Expertise
+
+- Scalable Web Architecture (Next.js + Node.js)
+- API Design & Integration (REST, internal services)
+- Headless CMS Modeling (Strapi)
+- Performance Engineering & Web Vitals
+- Component Architecture & Code Maintainability
+- Cross-Functional Technical Collaboration
+- Testing Strategy (Jest, React Testing Library)
 
 ---
 
 ## 🧰 Tech Stack
 
-<div align="left">
+### Languages
+TypeScript, JavaScript
 
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3, Sass  
-- **Frameworks**: React, Next.js, React Native, Redux  
-- **Styling**: Tailwind CSS, Styled Components  
-- **Tools**: Git, VS Code, Figma, Vite, ESLint, Prettier  
-- **Testing**: Jest, React Testing Library  
+### Frontend
+React, Next.js, React Native
 
-</div>
+### Backend
+Node.js
+
+### Styling & UI Architecture
+Styled Components, Tailwind CSS, Sass
+
+### Testing & Quality
+Jest, React Testing Library
+
+### Tooling & Workflow
+Git, Vite, ESLint, Prettier, Figma
 
 ---
 
@@ -49,5 +82,3 @@ I'm passionate about solving real-world problems through design and code, consta
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
