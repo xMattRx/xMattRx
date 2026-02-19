@@ -1,8 +1,8 @@
 # Matthew Nascimento
 
-**Frontend Software Engineer** | React, Next.js, React Native, TypeScript  
+**Frontend Software Engineer** | React, Next.js, Node.js, React Native, TypeScript  
 📍 Brazil | 🎓 B.Sc. in Software Engineering  
-💼 Software Engineer @ [CI&T](https://ciandt.com/br/pt-br/home)
+💼 Software Engineer @ [Cartão Elo]([https://ciandt.com/br/pt-br/home](https://www.elo.com.br/))
 
 ---
 
